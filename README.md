@@ -1,4 +1,5 @@
 # Parker Täppor i Stockholm - Wikidata
+Lite bättre kopplingar WD OSM och Google Map
 
 ## Källor
 * Södermalm
@@ -12,6 +13,6 @@
 
 ## Wikidata
 * WD [Q115863934](https://www.wikidata.org/wiki/Q115863934)
-   * [SPARQL karta](https://w.wiki/69SV)
+   * [SPARQL karta]([https://w.wiki/69SV](https://w.wiki/69Sf))
 ## Wikipedia
 * [Mall:Parker i Stockholm](https://sv.wikipedia.org/wiki/Mall:Parker_i_Stockholm)
