@@ -14,4 +14,4 @@
 * WD [Q115863934](https://www.wikidata.org/wiki/Q115863934)
    * [SPARQL karta](https://w.wiki/69SV)
 ## Wikipedia
-* Parker i Stockholm
+* [Mall:Parker i Stockholm](https://sv.wikipedia.org/wiki/Mall:Parker_i_Stockholm)
