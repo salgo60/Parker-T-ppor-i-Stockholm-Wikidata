@@ -12,6 +12,6 @@
 
 ## Wikidata
 * WD [Q115863934](https://www.wikidata.org/wiki/Q115863934)
-   * [SPARQL]()
+   * [SPARQL karta](https://w.wiki/69SV)
 ## Wikipedia
 * Parker i Stockholm
